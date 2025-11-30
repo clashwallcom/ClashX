@@ -1,6 +1,10 @@
 # ClashX 科学上网资源下载
 
-
+<br>
+<div align="center">
+  <img width="150" height="150" alt="ClashX" src="https://github.com/user-attachments/assets/79d86587-3889-4e99-9d58-685f92ce95d3" />
+</div>
+<br>
 
 ## :memo: ClashX 节点资源
 
